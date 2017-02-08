@@ -1,4 +1,4 @@
-package com.bazaarify.web.core.entities;
+package com.vijay.web.core.entities;
 
 import java.util.List;
 

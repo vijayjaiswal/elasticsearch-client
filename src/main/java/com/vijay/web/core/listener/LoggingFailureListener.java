@@ -1,4 +1,4 @@
-package com.bazaarify.web.core.listener;
+package com.vijay.web.core.listener;
 
 import org.apache.http.HttpHost;
 import org.elasticsearch.client.RestClient.FailureListener;

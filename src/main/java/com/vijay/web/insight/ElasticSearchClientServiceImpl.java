@@ -1,4 +1,4 @@
-package com.bazaarify.web.insight;
+package com.vijay.web.insight;
 
 import java.io.IOException;
 
@@ -13,7 +13,7 @@ import org.elasticsearch.client.sniff.Sniffer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.bazaarify.web.core.listener.LoggingFailureListener;
+import com.vijay.web.core.listener.LoggingFailureListener;
 
 @Service("elasticSearchClientService")
 public class ElasticSearchClientServiceImpl implements ElasticSearchClientService {

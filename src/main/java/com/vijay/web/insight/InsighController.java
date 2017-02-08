@@ -1,4 +1,4 @@
-package com.bazaarify.web.insight;
+package com.vijay.web.insight;
 
 import java.io.IOException;
 import java.util.Hashtable;
@@ -14,11 +14,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.bazaarify.web.core.entities.Hit;
-import com.bazaarify.web.core.entities.ResponseHits;
-import com.bazaarify.web.entities.Employee;
-import com.bazaarify.web.entities.Greeting;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.vijay.web.core.entities.Hit;
+import com.vijay.web.core.entities.ResponseHits;
+import com.vijay.web.entities.Employee;
+import com.vijay.web.entities.Greeting;
 
 @RestController
 public class InsighController {

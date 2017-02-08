@@ -1,7 +1,7 @@
-package com.bazaarify.web.core.entities;
+package com.vijay.web.core.entities;
 
-import com.bazaarify.web.entities.Employee;
 import com.fasterxml.jackson.annotation.JsonProperty;
+import com.vijay.web.entities.Employee;
 
 public class Hit {
 	@JsonProperty(value = "_index")

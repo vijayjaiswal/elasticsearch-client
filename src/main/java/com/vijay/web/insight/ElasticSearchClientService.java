@@ -1,4 +1,4 @@
-package com.bazaarify.web.insight;
+package com.vijay.web.insight;
 
 import org.elasticsearch.client.RestClient;
 

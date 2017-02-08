@@ -1,4 +1,4 @@
-package com.bazaarify.web.entities;
+package com.vijay.web.entities;
 
 public class Employee {
 	private String name;
